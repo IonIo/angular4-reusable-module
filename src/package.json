@@ -1,0 +1,28 @@
+{
+  "name": "angular4-reusable-module",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IonIo/angular4-reusable-module"
+  },
+  "author": {
+    "name": "Igo Kon",
+    "email": "igo1987@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IonIo/angular4-reusable-module/issues"
+  },
+  "main": "angular4-reusable-module.umd.js",
+  "module": "angular4-reusable-module.js",
+  "jsnext:main": "angular4-reusable-module.js",
+  "typings": "angular4-reusable-module.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
